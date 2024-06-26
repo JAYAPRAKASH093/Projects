@@ -1,0 +1,23 @@
+﻿.footerlinks {
+    color: #ffffff;
+    text-decoration: none !important;
+}
+.footerlinks:hover{
+    color: #ffd800;
+}
+#footer1{
+    background: #808080;
+}
+#footer2{
+    background: #000000;
+}
+.img-fluid{ 
+    width: 100%;
+}
+a{
+    text-decoration:none;
+}
+#signupbtn{
+   width:100%;
+   text-decoration:none;
+}
